@@ -55,6 +55,6 @@ Start the Node/Express server:
 * Run 'node server.js'
 
 
-![Customer Management App](CustomerManagerSystem-Angular-master/CustomerManagerSystem/Content/images/customerApp.png)
+
 
 
