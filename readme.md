@@ -55,6 +55,6 @@ Start the Node/Express server:
 * Run 'node server.js'
 
 
-https://github.com/immortalstar7/CustomerManagerSystem-Angular-master/blob/master/CustomerManagerSystem/Content/images/customerApp.png
+![Customer Management App](CustomerManagerSytem/Content/images/customerApp/Content/images/customerApp.png)
 
 
