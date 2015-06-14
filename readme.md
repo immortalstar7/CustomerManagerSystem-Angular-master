@@ -55,6 +55,6 @@ Start the Node/Express server:
 * Run 'node server.js'
 
 
-![Customer Management App](CustomerManagerSytem/Content/images/customerApp/Content/images/customerApp.png)
+![Customer Management App](CustomerManagerSytem/Content/images/customerApp.png)
 
 
