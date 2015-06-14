@@ -1,4 +1,4 @@
-Customer Manager System with AngularJS (with custom routing and dynamic controller script loading)
+Customer Manager System with AngularJS 
 
 
 
